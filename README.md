@@ -19,7 +19,5 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
   <img align="center" alt="Gelson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Gelson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" alt="Gelson-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">        
-<div> <br>
-  <a href="https://www.linkedin.com/in/lorenzo-cerbasi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
