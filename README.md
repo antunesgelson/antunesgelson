@@ -21,3 +21,10 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
   <img align="center" height="30" width="40" alt="Gelson-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">        
 </div>
 
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/antunesgelson_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gelsondeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
