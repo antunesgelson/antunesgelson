@@ -2,7 +2,7 @@
 
 Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos web, com foco na experiência do usuário e também na responsividade de meus projetos, sou acostumado a trabalhar com prazos curto.
 
- 💻Tenho conhecimento e experiência em React, ReactNative, Javascript, Typescript, TailwindCSS.
+ 💻Tenho conhecimento e experiência em React, ReactNative, Javascript, Typescript, TailwindCSS. <br>
 💬 Contate-me no email: gelsondeveloper@hotmail.com
 
 
