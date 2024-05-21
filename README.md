@@ -20,7 +20,7 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
   <img align="center" alt="Gelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img  align="center" height="30" width="40" alt="Gelson-Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" height="30" width="40" alt="Gelson-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">   
-  <img  align="center" height="30" width="40" alt="Gelson-Axios"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />     
+  <img align="center" height="30" width="40" alt="Gelson-Axios"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
   <img  align="center" height="30" width="40" alt="Gelson-Figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
