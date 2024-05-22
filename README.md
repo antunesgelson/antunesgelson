@@ -23,9 +23,8 @@ Um profissional extremamente habilidoso em desenvolvimento de sites, aplicativos
   <img align="center" height="30" width="40" alt="Gelson-Axios"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
   <img  align="center" height="30" width="40" alt="Gelson-Figma"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
-
+  ## Tecnologias que eu uso no meu dia
   ##
- 
 <div> 
   <a href="https://instagram.com/antunesgelson_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gelsondeveloper/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
